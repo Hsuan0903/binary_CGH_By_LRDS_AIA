@@ -1,5 +1,13 @@
 # binary_CGH_By_LRDS_AIA
 
+<p align="center" width="100%">
+    <img width="66%" src="https://user-images.githubusercontent.com/67819957/192965108-68035be5-e150-4d72-8d17-149d53632bcd.png">
+    
+</p>
+
+
+
+
 
 ## Introduction
 
